@@ -127,7 +127,7 @@
                 
                 <div class="blog-content">
                     <div class="row">
-                        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                             <h2>Категории</h2>
 
                             <div class="category-name">
@@ -307,7 +307,7 @@
 
                         </div>
 
-                        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 
                             <div class="post-container">
                                 <div class="row">

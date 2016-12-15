@@ -48,7 +48,7 @@
                 </div>
                 <div class="row">
                     <div class="steps-container">
-                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                             <div class="step">    
                                 <h4>за най-забързаните*</h4>
                                 <p>
@@ -58,7 +58,7 @@
                                 <div class="separator-left"></div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                             <div class="step">    
                                 <h4>специален подарък</h4>
                                 <p>
@@ -67,7 +67,7 @@
                                 <div class="separator-left"></div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
                             <h4>основни курсове*</h4>
                             <p>
                                 Направете подарък, като изберете някой от основните ни курсове, които предлагаме редовно. Оставете датата отворена и дайте възможност на 

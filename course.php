@@ -42,7 +42,7 @@
                     <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                         <div class="details">
                             <div class="row">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                     <div class="details-box">
                                         <div class="title">Начало:</div>
                                         <div class="column">
@@ -52,7 +52,7 @@
                                     </div>
 
                                 </div>
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                     
                                     <div class="details-box">
                                         <div class="title">Свободни места:</div>
@@ -66,7 +66,7 @@
                             </div>
 
                             <div class="row">
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                     
                                     <div class="details-box">
                                         <div class="title">Цена:</div>
@@ -96,7 +96,7 @@
 
                                 </div>
 
-                                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                     
                                     <div class="details-box">
                                         <div class="title">Специална цена:</div>
@@ -219,7 +219,7 @@
 
                                         <div class="item active">
 
-                                           <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                                 <div class="course-box">
                                                     <div class="details">
                                                         <h2>CIAO ITALIA Vol. II - BOLOGNA</h2>
@@ -228,7 +228,7 @@
                                                </div>
                                                <p class="course-details">Необходими са Ви един-два евтини инструмента, малко знания и добро желание, за да приготвите вкусен стек или пък най-якото Барбакоа, което някога сте опитвали. </p>
                                            </div>
-                                           <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                                           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                                 <div class="course-box">
                                                     <div class="details">
                                                         <h2>ЗАНАЯТЧИЙСКИ ХЛЯБ</h2>
