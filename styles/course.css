@@ -1,0 +1,155 @@
+.main-container.course .placeholder {
+	margin-bottom: 30px;
+}
+
+.main-container.course .placeholder{
+	padding-bottom: 240px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url(../assets/images/Placeholder-full-landscape-4.jpg);
+	margin-bottom: 30px;
+}
+
+.main-container.course section.course-image .placeholder {
+	padding-bottom: 480px;
+}
+
+.main-container.course section.course-image {
+	margin-bottom: 30px;
+}
+
+section.course-image .curse-title	{
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+section.course-image .curse-title .separator {
+	height: 30px;
+}
+
+section.course-image .curse-title .title {
+    position: absolute;
+    top: -30px;
+    background-color: #fff;
+    padding: 0 30px 0 10px;
+    color: #fac214;
+    font-size: 25px;
+    height: 30px;
+}
+
+.course-details .details-box {
+	margin-bottom: 30px;
+	position: relative;
+	padding-bottom: 15px;
+}
+
+.course-details .details-box .title,
+.course-details .details-box .column {
+	display: table-cell;
+	vertical-align: top;
+	font-size: 16px;
+}
+
+.course-details .details-box .column span {
+	display: block;
+	margin-left: 10px;
+}
+
+.course-details .details-box .column span.hint {
+	font-size: 12px;
+	position: relative;
+}
+
+.course-details .details-box .column span.colored {
+	font-size: 18px;
+	color: #f07b22;
+	font-weight: 900;
+}
+
+.course-details .details-box .hint {
+	font-size: 12px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.course-details .details-box .title {
+	font-weight: 700;
+}
+
+.course-details .dropdown-container {
+	margin: 0 0 30px 0;
+}
+
+.course-details .details {
+	margin-bottom: 30px;
+}
+
+.course-details p {
+	text-align: left;
+}
+
+.course-details .course-description {
+	margin-bottom: 30px;
+}
+
+.course-details .course-description .title,
+.course-details .course-description .description {
+	text-align: center;
+	display: block;
+	margin: 5px auto;
+	color: #000;
+}
+
+.course-details .course-description .title {
+	font-size: 15px;
+}
+
+.course-details .course-description .description {
+	font-size: 13px;
+}
+
+.course-details .course-description .description.push-bottom {
+	margin-bottom: 20px;
+}
+
+.course-details .course-description ul {
+	list-style: inherit;
+    font-size: 14px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+
+.course-details .course-images .current-course-image {
+    width: 100%;
+    padding-bottom: 155px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: lightgray;
+}
+
+.course-details .course-images .current-course-image.first {
+	padding-bottom: 330px;
+}
+
+.course-details .course-images [class*=col] {
+	padding: 10px;
+}
+
+.course-details .similar-courses {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.course-details .similar-courses .course-box .details {
+	margin-bottom: 0px;
+}
+
+.course-details .similar-courses h1 {
+	margin-bottom: 30px;
+}

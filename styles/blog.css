@@ -1,0 +1,112 @@
+section.blog-container {
+	padding: 50px 0; 
+}
+
+section.blog-container p {
+	margin-bottom: 30px;
+}
+
+section.blog-container p span {
+	color: #8c79b6;
+	font-size: 16px;
+	display: inline-block;
+}
+
+section.blog-container .blog-content h2 {
+	font-size: 20px;
+	display: block;
+	color: #8c79b6;
+	margin: 40px 0 20px 0;
+}
+
+section.blog-container .blog-content .category-name {
+	display: block;
+	margin-bottom: 5px;
+	cursor: pointer;
+}
+
+section.blog-container .blog-content .category-name .icon {
+	width: 20px;
+	height: 15px;
+	display: inline-block;
+	vertical-align: middle;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url(../assets/images/icons/folder.png);
+}
+
+section.blog-container .blog-content .category-name .name {
+	font-size: 14px;
+	color: #f07b22;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 5px 0 10px;
+}
+
+section.blog-container .blog-content .category-name span {
+	color: #8c79b6;
+	font-size: 14px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+section.blog-container .blog-content .category-name .name span {
+	color: #8c79b6;
+	font-size: 14px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+section.blog-container .blog-content .post-container {
+	cursor: pointer;
+	text-align: left;
+	margin-top: 40px;
+	width: 100%;
+}
+
+section.blog-container .blog-content .post-container .post-image {
+	width: 100%;
+	padding-bottom: 220px;
+	background-color: lightgray;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+section.blog-container .blog-content .post-container h2 {
+	font-size: 20px;
+	display: block;
+	color: #fbc314;
+	margin: 0;
+}
+
+section.blog-container .blog-content .post-container .info {
+	display: block;
+	color: #fbc314;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+section.blog-container .blog-content .post-container .info .date,
+section.blog-container .blog-content .post-container .info .publisher {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 12px;
+}
+
+section.blog-container .blog-content .post-container .info .publisher {
+	margin-left: 5px;
+}
+
+section.blog-container .blog-content .post-container p {
+	text-align: left;
+	font-size: 14px;
+}
+
+section.blog-container .ab-button.rounded {
+	background-color: transparent;
+	border: 2px solid #f07b22;
+	margin-top: 50px;
+	color: #f07b22;
+}

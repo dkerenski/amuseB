@@ -1,0 +1,47 @@
+section.timeline-section {
+    padding: 70px 0;
+    margin: 50px 0;
+    background-color: lightgray;
+}
+
+
+section.timeline-section .timeline {
+    width: 100%;
+    padding-bottom: 80px;
+    background-image: url(../assets/images/book-course.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    text-align: center;
+    margin-left: -17px;
+    margin-bottom: 30px;
+}
+
+section.timeline-section h1, 
+section.timeline-section p {
+	color: #fff;
+}
+
+
+.main-container.book-seats .separator { 
+	margin-bottom: 20px;
+}
+
+section.booking {
+	text-align: left;
+}
+
+section.booking .title {
+	color: #000;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+section.booking .input-container {
+	display: block;
+	margin: 20px 0;
+}
+
+section.booking .ab-button.rounded {
+	margin: 40px auto;
+}

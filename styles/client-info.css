@@ -1,0 +1,113 @@
+.client-info .timeline {
+	    width: 100%;
+    padding-bottom: 80px;
+    background-image: url(../assets/images/book-course.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    text-align: center;
+    margin-left: -17px;
+    margin-bottom: 30px;
+}
+
+section.timeline-section {
+    padding: 70px 0;
+    margin: 50px 0;
+    background-color: lightgray;
+}
+
+.timeline-section h1, .timeline-section p {
+	color: #fff;
+}
+
+section.login {
+	padding: 60px 0 85px 0;
+	background-color: #fff;
+
+}
+
+section.login .input-container {
+	margin: 20px 0;
+	max-width: 100%;
+}
+
+section.login .input-container a {
+	color: blue;
+	font-size: 10px;
+	float: right;
+	margin-top: 5px;
+}
+
+section.login .title {
+	color: #000;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+section.login .right-side .separator {
+	position: absolute;
+	top: 0;
+	left: 0px;
+	width: 3px;
+	height: 100%;
+}
+
+section.login .ab-button.rounded {
+	margin: 20px auto;
+}
+
+section.login .left-side,
+section.login .right-side {
+	display: inline-block;
+	vertical-align: middle;
+	width: 50%;
+	position: relative;
+	padding: 0 40px;
+
+}
+
+.terms-and-conditions-container {
+	text-align: left;
+    position: relative;
+}
+
+.terms-and-conditions-container .text-container {
+	padding: 10px;
+	width: 100%;
+	height: 100%;
+}
+
+.terms-and-conditions-container .border {
+	background: linear-gradient(-45deg, transparent 25%, #FFBF1F 25%, #FFBF1F 50%,  transparent 50%, transparent 75%,  #FFBF1F 75%);
+    background-size: 4px 4px;
+    position: absolute;
+}
+
+
+.terms-and-conditions-container .border.top, 
+.terms-and-conditions-container .border.bottom {
+	width: 100%;
+	height: 4px;
+}
+
+.terms-and-conditions-container .border.top {
+	top: 0px;
+}
+
+.terms-and-conditions-container .border.bottom {
+	bottom: 0px;
+}
+
+.terms-and-conditions-container .border.left, 
+.terms-and-conditions-container .border.right {
+	width: 4px;
+	height: 100%;
+}
+
+.terms-and-conditions-container .border.left {
+	left: 0px;
+}
+
+.terms-and-conditions-container .border.right {
+	right: 0px;
+}

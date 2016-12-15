@@ -1,0 +1,129 @@
+.vouchers .courses-separator .separator {
+	margin-top: 20px;
+	background: linear-gradient(-45deg, transparent 25%, #FFF 25%, #FFF 50%,  transparent 50%, transparent 75%,  #FFF 75%);
+    background-size: 4px 4px;
+    width: 100%;
+    height: 10px;
+}
+
+.vouchers .courses-separator p {
+	text-align: left;
+}
+
+.vouchers .receive-voucher .steps-container {
+	margin-top: 50px;
+}
+
+.vouchers .receive-voucher .steps-container h4,
+.vouchers .receive-voucher .steps-container p {
+	text-align: left;
+}
+
+.vouchers .receive-voucher .steps-container h4 {
+	color: #fac214;
+	margin-bottom: 25px;
+	font-size: 20px;
+}
+
+.vouchers .hint {
+	font-size: 12px;
+	margin-top: 30px;
+	color: #000;
+	margin-bottom: 50px;
+	padding-left: 15px;
+}
+
+.vouchers .receive-voucher .steps-container .step {
+	position: relative;
+}
+
+.vouchers .receive-voucher .steps-container .separator-left {
+	background: linear-gradient(-45deg, transparent 25%, #FFBF1F 25%, #FFBF1F 50%,  transparent 50%, transparent 75%,  #FFBF1F 75%);
+    background-size: 4px 4px;
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.vouchers .order-vouchers {
+	background-color: #cbcbcb;
+	padding: 50px 0 20px 0;
+}
+
+.vouchers .order-vouchers .timeline {
+    width: 100%;
+    padding-bottom: 80px;
+    background-image: url(../assets/images/steps-timeline.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    text-align: center;
+    margin-left: -17px;
+    margin-bottom: 30px;
+}
+
+.vouchers .order-vouchers h1 {
+	color: #fff;
+	margin-bottom: 45px;
+}
+
+.vouchers .order-vouchers form {
+	position: relative;
+}
+
+.vouchers .order-vouchers form .separator-left {
+	background: linear-gradient(-45deg, transparent 25%, #fff 25%, #fff 50%,  transparent 50%, transparent 75%,  #fff 75%);
+    background-size: 4px 4px;
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+.vouchers .order-vouchers .title {
+	font-size: 14px;
+	color: #fff;
+	text-align: left;
+	padding-left: 32px;
+	margin-top: 30px;
+}
+
+
+.vouchers .order-vouchers .ab-button {
+	margin-left: 30px;
+} 
+
+.vouchers .order-vouchers .hint {
+	text-align: center;
+	color: #fff;
+}
+
+.vouchers section.questions {
+	padding: 45px 0 200px 0;
+}
+
+.vouchers section.questions h1 {
+	margin-bottom: 15px;
+}
+
+.vouchers section.questions h2,
+.vouchers section.questions p {
+	text-align: left;
+}
+
+.vouchers section.questions h2 {
+	color: #fac214;
+	font-size: 20px;
+	margin-bottom: 15px;
+	margin-top: 30px;
+}
+
+.vouchers section.questions p {
+	font-size: 14px;
+}
