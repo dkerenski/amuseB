@@ -1,0 +1,215 @@
+.main-container.team-building header .logo {
+	background-image: url(../assets/images/logo-team-building.jpg);
+	background-size: contain;
+	height: 70px;
+}
+
+.main-container.team-building header .subnav ul {
+    width: 50%;
+    margin-left: 45%;
+    text-align: left;
+}
+
+.main-container.team-building footer section.work-time {
+	padding: 25px 0;
+}
+
+.main-container.team-building footer section.footer-navigation .footer-logo {
+    background-image: url(../assets/images/footer-logo-team-building.jpg); 
+    height: 90px;
+    background-size: contain;
+    background-position: left;
+}
+
+.main-container.team-building section.overview {
+	padding: 40px 0;
+}
+
+.main-container.team-building section.overview p {
+	margin-bottom: 20px;
+}
+
+.main-container.team-building section.overview .separator {
+	margin-bottom: 50px;
+}
+
+.main-container.team-building section.overview .description p {
+	text-align: left;
+}
+
+.main-container.team-building section.sponsors .sponsor-container {
+	width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+.main-container.team-building section.sponsors .logo {
+	display: inline-block;
+	vertical-align: top;
+	background-position: top;
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding-bottom: 73px;
+	margin-right: 20px
+}
+
+.main-container.team-building section.sponsors .logo.lufthansa {
+	background-image: url(../assets/images/sponsors/lufthansa.png);
+	width: 23%;
+}
+
+.main-container.team-building section.sponsors .logo.unicredit {
+	background-image: url(../assets/images/sponsors/unicredit.png);
+	width: 23%;
+}
+
+.main-container.team-building section.sponsors .logo.ernst {
+	background-image: url(../assets/images/sponsors/ernst.png);
+	width: 23%;
+	margin-top: 20px;
+}
+
+.main-container.team-building section.sponsors .logo.telenor {
+	background-image: url(../assets/images/sponsors/telenor.png);
+	width: 23%;
+}
+
+
+.main-container.team-building section.sponsors .logo.paribas {
+	background-image: url(../assets/images/sponsors/paribas.png);
+	width: 20%;
+	background-position: center;
+}
+
+.main-container.team-building section.sponsors .logo.hellenic {
+	background-image: url(../assets/images/sponsors/hellenic.png);
+	width: 14%;
+}
+
+.main-container.team-building section.sponsors .logo.hp {
+	background-image: url(../assets/images/sponsors/hp.png);
+	width: 10%;
+	margin-left: 20px;
+}
+
+.main-container.team-building section.sponsors .logo.vmware {
+	background-image: url(../assets/images/sponsors/vmware.png);
+	width: 17%;
+	background-position: center;
+	margin-left: 20px;
+}
+
+.main-container.team-building section.sponsors .logo.novatris {
+	background-image: url(../assets/images/sponsors/novatris.png);
+	width: 21%;
+	background-position: center;
+	margin-left: 40px;
+}
+
+.main-container.team-building section.sponsors .logo.forton {
+	background-image: url(../assets/images/sponsors/forton.png);
+	width: 20%;
+	background-position: center;
+}
+
+.main-container.team-building section.sponsors .logo.matrix {
+	background-image: url(../assets/images/sponsors/matrix.png);
+	width: 14%;
+}
+
+.main-container.team-building section.sponsors .logo.questers {
+	background-image: url(../assets/images/sponsors/questers.png);
+	width: 10%;
+	margin-left: 20px;
+}
+
+.main-container.team-building section.sponsors .logo.william {
+	background-image: url(../assets/images/sponsors/william.png);
+	width: 17%;
+	background-position: center;
+	margin-left: 20px;
+}
+
+.main-container.team-building section.sponsors .logo.safecharge {
+	background-image: url(../assets/images/sponsors/safecharge.png);
+	width: 21%;
+	background-position: center;
+	background-size: cover;
+	margin-left: 40px;
+}
+
+.main-container.team-building section.sponsors .chefs-image {
+	max-width: 1300px;
+    padding-bottom: 210px;
+    margin: 30px auto;
+    background-size: 155%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../assets/images/chefs.png);
+}
+
+
+.main-container.team-building section.cooking {
+	margin: 40px 0;
+}
+.main-container.team-building section.cooking .separator {
+	margin: 30px 0;
+}
+
+.main-container.team-building section.cooking .image-container {
+	width: 100%;
+	height: 270px;
+}
+
+.main-container.team-building section.cooking .image-container .image {
+	width: 100%;
+	height: 100%;
+	background-image: url(../assets/images/image-dinner.png);
+ 	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-container.team-building section.cooking .details {
+	width: 100%;
+	height: auto;
+
+}
+
+.main-container.team-building section.cooking .details .icons-container {
+	width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+.main-container.team-building section.cooking .details .icons-container .icon {
+	display: inline-block;
+	vertical-align: top;
+	width: 30px;
+	height: 30px;
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+
+.main-container.team-building section.cooking .details .icons-container .icon.time {
+	background-image: url(../assets/images/time.png);
+}
+
+.main-container.team-building section.cooking .details .icons-container .icon.cooking {
+	background-image: url(../assets/images/cooking.png);
+}
+
+.main-container.team-building section.cooking .details .icons-container .icon.dinner {
+	background-image: url(../assets/images/dinner.png);
+	width: 90px;
+}
+
+.main-container.team-building section.cooking .details ul {
+	margin-bottom: 25px;
+}
+
+.main-container.team-building section.cooking .details li {
+    font-size: 14px;
+}

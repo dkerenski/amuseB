@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                <a href="index.php">
+                <a href="../index.php">
                     <div class="logo"></div>
                 </a>
             </div>
@@ -22,17 +22,17 @@
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <nav>
                     <ul>
-                        <a href="index.php">
+                        <a href="../index.php">
                             <li>Курсове</li>
                         </a>
-                        <a href="vouchers.php">
+                        <a href="../vouchers.php">
                             <li>Ваучери</li>
                         </a>
-                        <a href="team-building/team-building.php">
+                        <a href="team-building.php">
                             <li>Тийм-билдинг</li>
                         </a>
                         <li>Услуги</li>
-                        <a href="blog.php">
+                        <a href="../blog.php">
                             <li>Блог</li>
                         </a>
                         <li>За нас</li>
@@ -42,18 +42,11 @@
         </div>
     </div>
     <div class="subnav">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <ul>
-                        <li>календар</li>
-                        <li>начинаещи</li>
-                        <li>напреднали</li>
-                        <li>за деца</li>
-                        <li>частни</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+        <ul>
+            <li>rent-a-chef</li>
+            <li>кетъринг</li>
+            <li>консултации</li>
+            <li>партита</li>
+        </ul>
     </div>
 </header>

@@ -1,25 +1,5 @@
 <footer>
-	<section class="work-time">
-
-		<h2>Работно време</h2>
-
-		<div class="content push-bottom">
-			<p>администрация:</p>
-			<span>от понеделник до петък <br> 10:00 - 18:00 ч.</span>
-		</div>
-
-		<div class="content">
-			<p>имейл:</p>
-			<span>contact@amusebouche-bg.com</span>
-		</div>
-
-		<div class="content">
-			<p>телефон:</p>
-			<span>+359 877 585 873</span>
-		</div>
-
-
-	</section>
+	<section class="work-time"></section>
 
 	<section class="footer-navigation">
 		<div class="container">
